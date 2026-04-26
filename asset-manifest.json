@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trf-wholesale-list/static/css/main.59e1dca1.css",
+    "main.js": "/trf-wholesale-list/static/js/main.56ca8ed5.js",
+    "index.html": "/trf-wholesale-list/index.html",
+    "main.59e1dca1.css.map": "/trf-wholesale-list/static/css/main.59e1dca1.css.map",
+    "main.56ca8ed5.js.map": "/trf-wholesale-list/static/js/main.56ca8ed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59e1dca1.css",
+    "static/js/main.56ca8ed5.js"
+  ]
+}
